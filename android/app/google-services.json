@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356692948907",
+    "firebase_url": "https://atividade-5-app.firebaseio.com",
+    "project_id": "atividade-5-app",
+    "storage_bucket": "atividade-5-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356692948907:android:f74f8e79be9303bcae84ee",
+        "android_client_info": {
+          "package_name": "com.example.firebasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356692948907-haa7evo7k32pe82o1s6l27dfgdh3k6r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ysTdOWRgOWmT9vfPueGZA8VmYpqSf3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356692948907-haa7evo7k32pe82o1s6l27dfgdh3k6r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
